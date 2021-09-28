@@ -1,0 +1,125 @@
+.header
+{
+    margin-left:500px;
+    margin-top:190px;
+    position: absolute;
+    width: 269px;
+    height: 420px;
+    left: 0px;
+    top: 2.04px;    
+    background: #A2B3BD;
+    border-radius: 33px;
+    
+}
+
+.tag
+{
+    position: absolute;
+    width: 77px;
+    height: 8px;
+    left: 96.03px;
+    top: 5.32px;
+    background: #C4C4C4;
+    border: 1px solid #FFF9F9;
+    box-sizing: border-box;
+    border-radius: 33px;
+}
+
+.red
+{
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 14.2px;
+    top: 28.94px;    
+    background: #FD4646;
+    
+    border-radius: 33px;
+}
+.yellow
+{
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 32.2px;
+    top: 28.8px;
+    background: #FEB024;
+    
+    border-radius: 33px;
+}
+.green
+{
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 49.2px;
+    top: 28.67px;   
+    background: #2AC131;
+    
+    border-radius: 33px;
+}
+.image
+{
+    position: absolute;
+    width: 119px;
+    height: 119px;
+    left: 79.42px;
+    top: 57.44px;   
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    
+}
+.name{
+    position: absolute;
+    width: 170px;
+    height: 35px;
+    left: 55.65px;
+    top: 219.63px;
+    border: 1px solid rgba(0, 0, 0, 0.3);
+    box-sizing: border-box;
+    
+}
+.email
+{
+    position: absolute;
+width: 170px;
+height: 35px;
+left: 56.15px;
+top: 285.63px;
+
+border: 1px solid rgba(0, 0, 0, 0.3);
+box-sizing: border-box;
+}
+
+/*.nametxt
+{
+    position: absolute;
+    width: 250px;
+    height: 49px;
+    left: 9.73px;
+    top: 229.98px;
+    font-family: Plantagenet Cherokee;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 21px;
+    text-align: center;
+    color: #000000;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}*/
+
+.portfolio
+{
+    text-decoration: none;
+    font-size: 14px;
+    position: absolute;
+    width: 170px;
+    height: 35px;
+    left: 56.64px;
+    top: 349.62px;
+    border: 1px solid rgba(0, 0, 0, 0.3);
+    box-sizing: border-box;
+}
+.text
+{
+    margin-top:6px;
+}
